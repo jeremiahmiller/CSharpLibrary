@@ -1,0 +1,6 @@
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp5\obj\Debug\0.04_Conditionals.csprojResolveAssemblyReference.cache
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
