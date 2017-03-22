@@ -1,0 +1,6 @@
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp10\obj\Debug\0.04_conditionals_ternary.csprojResolveAssemblyReference.cache
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp10\obj\Debug\ConsoleApp10.pdb

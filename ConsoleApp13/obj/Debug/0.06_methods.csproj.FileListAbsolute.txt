@@ -1,0 +1,6 @@
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp13\obj\Debug\0.06_methods.csprojResolveAssemblyReference.cache
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp13\bin\Debug\ConsoleApp13.exe.config
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp13\bin\Debug\ConsoleApp13.exe
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp13\bin\Debug\ConsoleApp13.pdb
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp13\obj\Debug\ConsoleApp13.exe
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp13\obj\Debug\ConsoleApp13.pdb

@@ -37,6 +37,10 @@ namespace ConsoleApp8
             {
                 Console.WriteLine("Wow");
             }
+            else
+            {
+                Console.WriteLine("Sorry? Didn't hear you?");
+            }
             Console.ReadLine();
         }
     }
