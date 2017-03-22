@@ -1,0 +1,6 @@
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp4\obj\Debug\0.03_Strings.csprojResolveAssemblyReference.cache
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
