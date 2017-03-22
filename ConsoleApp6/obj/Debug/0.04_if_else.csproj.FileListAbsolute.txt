@@ -1,0 +1,6 @@
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp6\obj\Debug\0.04_if_else.csprojResolveAssemblyReference.cache
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
