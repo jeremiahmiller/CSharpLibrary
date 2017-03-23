@@ -1,0 +1,6 @@
+C:\Users\Jeremiah Miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp15\obj\Debug\0.07_methods_challenge.csprojResolveAssemblyReference.cache
+C:\Users\Jeremiah Miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\Jeremiah Miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\Jeremiah Miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\Jeremiah Miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\Jeremiah Miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
