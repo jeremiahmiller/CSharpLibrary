@@ -1,0 +1,5 @@
+C:\Users\Jeremiah Miller\documents\visual studio 2017\Projects\CSharpLibrary\0.08_loop_program\bin\Debug\0.08_loop_program.exe.config
+C:\Users\Jeremiah Miller\documents\visual studio 2017\Projects\CSharpLibrary\0.08_loop_program\bin\Debug\0.08_loop_program.exe
+C:\Users\Jeremiah Miller\documents\visual studio 2017\Projects\CSharpLibrary\0.08_loop_program\bin\Debug\0.08_loop_program.pdb
+C:\Users\Jeremiah Miller\documents\visual studio 2017\Projects\CSharpLibrary\0.08_loop_program\obj\Debug\0.08_loop_program.exe
+C:\Users\Jeremiah Miller\documents\visual studio 2017\Projects\CSharpLibrary\0.08_loop_program\obj\Debug\0.08_loop_program.pdb
