@@ -30,7 +30,7 @@ namespace _0._12_Access_Modifiers
             this.price = price;
         }
 
-        protected string CarDetails()
+        public string AcuraDetails()
         {
             return $"Make: {Make}\nModel: {Model}\nYear: {Year}";
         }

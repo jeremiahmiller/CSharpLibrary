@@ -24,7 +24,7 @@ namespace ConsoleApp11
             longJohn.price = 1.25M;
             longJohn.type = "Filled";
 
-            Console.WriteLine("A longjohn costs abut {0:C}", longJohn.
+            Console.WriteLine("A longjohn costs abut {0:C}", longJohn);
             Console.ReadLine();
 
         }

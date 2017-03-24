@@ -14,10 +14,10 @@ namespace ConsoleApp9
 
             switch (friend)
             {
-                case "Fred";
+                case "Fred":
                     Console.WriteLine("Hey Fred");
                     break;
-                case "Kenn";
+                case "Kenn":
                     Console.WriteLine("Hey Kenn");
                     break;
                 default:

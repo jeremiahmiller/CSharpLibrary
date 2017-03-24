@@ -1,1 +1,6 @@
 c:\users\jeremiah miller\documents\visual studio 2017\Projects\CSharpLibrary\ConsoleApp7\obj\Debug\0.04_conditional_else_if.csprojResolveAssemblyReference.cache
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\ConsoleApp7\bin\Debug\ConsoleApp7.exe.config
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\ConsoleApp7\bin\Debug\ConsoleApp7.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\ConsoleApp7\bin\Debug\ConsoleApp7.pdb
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\ConsoleApp7\obj\Debug\ConsoleApp7.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\ConsoleApp7\obj\Debug\ConsoleApp7.pdb

@@ -1,0 +1,2 @@
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_ArrraysOfObjects\obj\Debug\0.10_Collections_ArrraysOfObjects.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_ArrraysOfObjects\obj\Debug\0.10_Collections_ArrraysOfObjects.pdb

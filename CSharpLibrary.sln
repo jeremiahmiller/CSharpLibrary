@@ -13,45 +13,45 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.03_Strings", "ConsoleApp4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_Conditionals", "ConsoleApp5\0.04_Conditionals.csproj", "{C5DE6048-35A5-43F6-97C9-8EB07E6BCA41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_if_else", "ConsoleApp6\0.04_if_else.csproj", "{CF427AE4-0BBA-418D-B37B-5CFD04417F9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_If_Else", "ConsoleApp6\0.04_If_Else.csproj", "{CF427AE4-0BBA-418D-B37B-5CFD04417F9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_Conditional_else_if", "ConsoleApp7\0.04_Conditional_else_if.csproj", "{9388F60A-8908-4A2E-AA14-19B99A34260D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_Conditionals_Else_If", "ConsoleApp7\0.04_Conditionals_Else_If.csproj", "{9388F60A-8908-4A2E-AA14-19B99A34260D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_conditionals_readline", "ConsoleApp8\0.04_conditionals_readline.csproj", "{D2DD153A-0201-4F98-96C9-B6EEFE2E6D63}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_Conditionals_ReadLine", "ConsoleApp8\0.04_Conditionals_ReadLine.csproj", "{D2DD153A-0201-4F98-96C9-B6EEFE2E6D63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_conditionals_switch", "ConsoleApp9\0.04_conditionals_switch.csproj", "{7DCBCBFE-A5F2-4DD9-8F18-09B5EC707F61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_Conditionals_Switch", "ConsoleApp9\0.04_Conditionals_Switch.csproj", "{7DCBCBFE-A5F2-4DD9-8F18-09B5EC707F61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_conditionals_ternary", "ConsoleApp10\0.04_conditionals_ternary.csproj", "{FF387B4B-23F9-44E8-AC37-23422F0200C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_Conditionals_Ternary", "ConsoleApp10\0.04_Conditionals_Ternary.csproj", "{FF387B4B-23F9-44E8-AC37-23422F0200C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.05_Objects", "ConsoleApp11\0.05_Objects.csproj", "{30CC2FDA-B280-405C-B001-4E70211D4E52}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.05_Objects_Challenge", "ConsoleApp12\0.05_Objects_Challenge.csproj", "{C4FAA0A2-647D-4DFF-A0E3-EEEB3F88D4CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_methods", "ConsoleApp13\0.06_methods.csproj", "{667E96E8-03A8-4CBB-8264-FB12CAD46958}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_Methods", "ConsoleApp13\0.06_Methods.csproj", "{667E96E8-03A8-4CBB-8264-FB12CAD46958}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_methods_challenge", "ConsoleApp15\0.07_methods_challenge.csproj", "{72DAFCDE-3418-4647-8B6C-C792A077A68B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_Methods_Challenge", "ConsoleApp15\0.06_Methods_Challenge.csproj", "{72DAFCDE-3418-4647-8B6C-C792A077A68B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_methods_overloading", "0.08_methods_overloading\0.08_methods_overloading.csproj", "{E42BA3EC-1DB2-4A5B-B4D5-D2CCE0CBB932}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_Methods_Overloading", "0.08_methods_overloading\0.06_Methods_Overloading.csproj", "{E42BA3EC-1DB2-4A5B-B4D5-D2CCE0CBB932}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_Constructors", "0.08_Constructors\0.08_Constructors.csproj", "{BD2F882F-4688-40B7-B181-26E5C170D64B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_Constructors", "0.08_Constructors\0.07_Constructors.csproj", "{BD2F882F-4688-40B7-B181-26E5C170D64B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_Constructors_Challenges", "0.08_Constructors_Challenges\0.08_Constructors_Challenges.csproj", "{5D4C193E-FFFB-4352-A291-1D50C8B8EA2D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_Constructors_Challenges", "0.08_Constructors_Challenges\0.07_Constructors_Challenges.csproj", "{5D4C193E-FFFB-4352-A291-1D50C8B8EA2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_Loops", "0.10_Loops\0.10_Loops.csproj", "{933728B1-E2AE-4EE0-B666-C5865D042D70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_Loops", "0.10_Loops\0.08_Loops.csproj", "{933728B1-E2AE-4EE0-B666-C5865D042D70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_loop_program", "0.08_loop_program\0.08_loop_program.csproj", "{31E8D822-08A6-4779-9FCB-6261E4B89B45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_Loops_Program", "0.08_loop_program\0.08_Loops_Program.csproj", "{31E8D822-08A6-4779-9FCB-6261E4B89B45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_ForEachLoops", "0.08_ForEachLoops\0.08_ForEachLoops.csproj", "{D1D8E5AF-ED54-4B2C-8527-5E29CCCEAF96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_Loops_For_Each_Loops", "0.08_ForEachLoops\0.08_Loops_For_Each_Loops.csproj", "{D1D8E5AF-ED54-4B2C-8527-5E29CCCEAF96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_Collections_ArrraysOfObjects", "0.10_Collections_ArrraysOfObjects\0.10_Collections_ArrraysOfObjects.csproj", "{706B7D3F-8AFA-43F5-8366-C96A39B91342}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Collections_Arrrays_of_Objects", "0.10_Collections_ArrraysOfObjects\0.09_Collections_Arrrays_of_Objects.csproj", "{706B7D3F-8AFA-43F5-8366-C96A39B91342}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Collections_dictionaries", "0.09_dictionaries\0.09_Collections_dictionaries.csproj", "{E82AF8F0-78C4-4E34-ADD6-3DF4FBAE133C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Collections_Dictionaries", "0.09_dictionaries\0.09_Collections_Dictionaries.csproj", "{E82AF8F0-78C4-4E34-ADD6-3DF4FBAE133C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Collections_dictionaries_Challenge", "0.09_Collections_dictionaries_Challenge\0.09_Collections_dictionaries_Challenge.csproj", "{7824A8FD-835D-4099-A30B-250EE845E836}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Collections_Dictionaries_Challenge", "0.09_Collections_dictionaries_Challenge\0.09_Collections_Dictionaries_Challenge.csproj", "{7824A8FD-835D-4099-A30B-250EE845E836}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Inheritance", "0.09_Inheritance\0.09_Inheritance.csproj", "{281B8FAC-F27E-4254-A0C1-BA96EA45D2B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_Inheritance", "0.09_Inheritance\0.10_Inheritance.csproj", "{281B8FAC-F27E-4254-A0C1-BA96EA45D2B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_Access_Modifiers", "0.12_Access_Modifiers\0.12_Access_Modifiers.csproj", "{DB55E5D7-17E2-47DC-9863-AC742F6C5A4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_Access_Modifiers", "0.12_Access_Modifiers\0.11_Access_Modifiers.csproj", "{DB55E5D7-17E2-47DC-9863-AC742F6C5A4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,5 @@
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\ConsoleApp12\obj\Debug\ConsoleApp12.pdb

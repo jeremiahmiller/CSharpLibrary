@@ -40,7 +40,7 @@ namespace _0._10_Loops
                 sum = sum + i;
             }
             Console.WriteLine("-----------------");
-            for (int i = 10; 1 > 0; i--)
+            for (int i = 10; i > 0; i--)
             {
                 Console.WriteLine(i);
             }

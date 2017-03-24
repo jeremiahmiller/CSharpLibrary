@@ -1,0 +1,2 @@
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Access_Modifiers\obj\Debug\0.12_Access_Modifiers.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.12_Access_Modifiers\obj\Debug\0.12_Access_Modifiers.pdb

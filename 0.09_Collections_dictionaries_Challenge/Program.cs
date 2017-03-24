@@ -19,19 +19,19 @@ namespace _0._09_Collections_dictionaries_Challenge
 
             foreach (KeyValuePair<string, string> definition in dictionary)
             {
-                Console.WriteLine("{0}: {1}", defnition.Key, definition.Value);
+                Console.WriteLine("{0}: {1}", definition.Key, definition.Value);
             }
             Console.ReadLine();
             
 
             //An array in a dictionary
             
-            Dictionary<string, string[]> dictionary = new Dictionary<string, string[]>();
-            dictionary.Add("2000", new string[] { "Gladiator", "Chocolate", "Chrouching Tiger, Hidde Dragon" });
-            dictionary.Add("2001", new string[] { "A Beautiful Mind", "Gosford Park", "In the Bedroom" });
-            dictionary.Add("2002", new string[] { "Chicogo", "Gangs of New York", "Harry Potter" });
+            Dictionary<string, string[]> Nominees = new Dictionary<string, string[]>();
+            Nominees.Add("2000", new string[] { "Gladiator", "Chocolate", "Chrouching Tiger, Hidde Dragon" });
+            Nominees.Add("2001", new string[] { "A Beautiful Mind", "Gosford Park", "In the Bedroom" });
+            Nominees.Add("2002", new string[] { "Chicogo", "Gangs of New York", "Harry Potter" });
 
-            foreach (KeyValuePair<string, string[]> definition in dictionary)
+            foreach (KeyValuePair<string, string[]> definition in Nominees)
             {
                 Console.WriteLine("{0}: {1}, {2}, {3}", definition.Key, definition.Value[0], definition.Value[1], definition.Value[2], definition.Value[3]);
             }
@@ -53,7 +53,7 @@ namespace _0._09_Collections_dictionaries_Challenge
 
             if (dictionary.ContainsKey(input2))
             {
-                string[] valurForKey = dictionary[input2];
+                string[] valueForKey = Nominees[input2];
                 string nomineeString = string.Join(", ", valueForKey);
                 Console.WriteLine("The best nominees in " + input2 + " were " + nomineeString);
             }

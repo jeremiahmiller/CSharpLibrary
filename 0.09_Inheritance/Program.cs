@@ -20,8 +20,8 @@ namespace _0._09_Inheritance
             Spot.HasEyes = true;
 
             Polor_Bear cokeACola = new Polor_Bear();
-            Animal the JSWiz = new Animal();
-            the JSWix.NumberOfLegs = 2;
+            Animal theJSWiz = new Animal();
+            theJSWiz.NumberOfLegs = 2;
             Console.ReadLine();
             {
 

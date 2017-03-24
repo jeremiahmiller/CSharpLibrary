@@ -1,0 +1,5 @@
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.08_Constructors\bin\Debug\0.08_Constructors.exe.config
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.08_Constructors\bin\Debug\0.08_Constructors.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.08_Constructors\bin\Debug\0.08_Constructors.pdb
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.08_Constructors\obj\Debug\0.08_Constructors.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.08_Constructors\obj\Debug\0.08_Constructors.pdb

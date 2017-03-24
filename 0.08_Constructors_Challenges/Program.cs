@@ -11,7 +11,7 @@ namespace _0._08_Constructors_Challenges
         static void Main(string[] args)
         {
             mobilphone mine = new mobilphone("Samsung", "Android");
-            
+            Console.ReadLine();
         }
     }
 }

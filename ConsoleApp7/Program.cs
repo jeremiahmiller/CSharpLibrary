@@ -19,7 +19,7 @@ namespace ConsoleApp7
             {
                 Console.WriteLine("I have extra money to buy socks this month");
             }
-            else if ((bankAccount -debt > 2000))
+            else if ((bankAccount - debt > 2000))
             {
                 Console.WriteLine("I have a bunch of extra money");
             }
@@ -28,5 +28,6 @@ namespace ConsoleApp7
                 Console.WriteLine("It isn't a good time to pay off debt");
             }
             Console.ReadLine();
+        }
     }
 }

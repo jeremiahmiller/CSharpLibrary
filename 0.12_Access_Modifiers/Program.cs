@@ -13,7 +13,7 @@ namespace _0._12_Access_Modifiers
             Acura pinto = new Acura("TL", 2000, 500);
             
 
-            Console.WriteLine(pinto.CarDetails());
+            Console.WriteLine(pinto.AcuraDetails());
 
             Console.ReadLine();
         }

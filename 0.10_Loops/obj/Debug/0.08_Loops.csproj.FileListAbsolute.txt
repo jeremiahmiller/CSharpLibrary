@@ -1,0 +1,5 @@
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Loops\bin\Debug\0.10_Loops.exe.config
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Loops\bin\Debug\0.10_Loops.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Loops\bin\Debug\0.10_Loops.pdb
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Loops\obj\Debug\0.10_Loops.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Loops\obj\Debug\0.10_Loops.pdb

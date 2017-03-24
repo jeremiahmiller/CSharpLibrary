@@ -19,7 +19,7 @@ namespace _0._08_Constructors
 
             Student charlesMichael = new Student("Charles", "Michael", 30, "Assassin");
             Student jeremiah = new Student("Jeremiah", "Miller", 18, "Padawan");
-
+            Console.ReadLine();
         }
     }
 }

@@ -19,7 +19,7 @@ namespace _0._02_BasicTypes
             teacher = "Paul";
 
             Console.WriteLine(name);
-            Console.WriteLine(teacher + " is a suave guy " + name + " is learning from him. ");
+            Console.WriteLine(teacher + " is a suave guy, " + name + " is learning from him. ");
             Console.ReadLine();
         }
     }

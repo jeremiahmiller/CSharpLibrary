@@ -18,5 +18,10 @@ namespace _0._10_Collections_ArrraysOfObjects
         //Properties
         public string Name { get; set; }
         public string Capital { get; set; }
+
+        public void PrintCountryDetails()
+        {
+            Console.WriteLine("The capital of {0} is {1].", this.Name, this.Capital);
+        }
     }
 }
