@@ -1,0 +1,6 @@
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Collections_dictionaries_Challenge\bin\Debug\0.09_Collections_dictionaries_Challenge.exe.config
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Collections_dictionaries_Challenge\bin\Debug\0.09_Collections_dictionaries_Challenge.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Collections_dictionaries_Challenge\bin\Debug\0.09_Collections_dictionaries_Challenge.pdb
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Collections_dictionaries_Challenge\obj\Debug\0.09_Collections_dictionaries_Challenge.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Collections_dictionaries_Challenge\obj\Debug\0.09_Collections_dictionaries_Challenge.pdb
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Collections_dictionaries_Challenge\obj\Debug\0.09_Collections_dictionaries_Challenge.csprojResolveAssemblyReference.cache

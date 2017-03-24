@@ -1,0 +1,6 @@
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_dictionaries\bin\Debug\0.09_dictionaries.exe.config
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_dictionaries\bin\Debug\0.09_dictionaries.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_dictionaries\bin\Debug\0.09_dictionaries.pdb
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_dictionaries\obj\Debug\0.09_Collections_dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_dictionaries\obj\Debug\0.09_dictionaries.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_dictionaries\obj\Debug\0.09_dictionaries.pdb

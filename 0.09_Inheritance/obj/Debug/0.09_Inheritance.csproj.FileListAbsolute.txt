@@ -1,0 +1,6 @@
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Inheritance\bin\Debug\0.09_Inheritance.exe.config
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Inheritance\bin\Debug\0.09_Inheritance.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Inheritance\bin\Debug\0.09_Inheritance.pdb
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Inheritance\obj\Debug\0.09_Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Inheritance\obj\Debug\0.09_Inheritance.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Inheritance\obj\Debug\0.09_Inheritance.pdb
