@@ -24,6 +24,7 @@ namespace _0._10_Collections_ArrraysOfObjects
             foreach(var country in countries)
             {
                 Console.WriteLine(country.Name);
+                country.PrintCountryDetails();
             }
             Console.ReadLine();
         }
