@@ -10,12 +10,12 @@ namespace _0._13_Video_Game
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("What is your name?");
+            Console.WriteLine("What's your name?");
             string name = Console.ReadLine();
-            Console.WriteLine("What clan are you a part of");
+            Console.WriteLine("What clan are you a part of?");
             string clan = Console.ReadLine();
             Console.WriteLine("What is your player type?\n +" + "0: Assassin" + "1: SillyPuff" + "2: Professor" + "3: HorseMange" + "4: TaxMan" + "5: Human");
-            int playerTye = int.Parse(Console.ReadLine());
+            int playerType = int.Parse(Console.ReadLine());
 
             Player player = new Player(name, clan);
             player.ChooseType(0);
@@ -26,7 +26,7 @@ namespace _0._13_Video_Game
 
             while (true)
             {
-                Console.WriteLine("You wanna fight?");
+                Console.WriteLine("You wanna fight?" + "Y or N?");
                 string userAnswer = Console.ReadLine();
                 if (userAnswer == "y")
                 {
