@@ -1,0 +1,38 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _0._12_Getters_Setters
+{
+    class Employees
+    {   //FEILD
+        private string _name;
+        //Property
+        public string Name
+        {
+            get { return _name; }
+            set
+            {
+                if (string.IsNullOrEmpty(value))
+                    throw new Exception("The Emplyee id is noot valid");
+                _name = value;
+            }
+        }
+        private int _id;
+
+        public int Id
+        {
+            get { return _id; }
+            set
+            {
+                if (Id <= 0)
+                    throw new Exception("The Employee id is not valid");
+                _id = value;
+            }
+        }
+
+
+    }
+}

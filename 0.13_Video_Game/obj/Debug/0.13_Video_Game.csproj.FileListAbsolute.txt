@@ -1,0 +1,6 @@
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_Video_Game\bin\Debug\0.13_Video_Game.exe.config
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_Video_Game\bin\Debug\0.13_Video_Game.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_Video_Game\bin\Debug\0.13_Video_Game.pdb
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_Video_Game\obj\Debug\0.13_Video_Game.exe
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_Video_Game\obj\Debug\0.13_Video_Game.pdb
+C:\Users\Jeremiah Miller\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.13_Video_Game\obj\Debug\0.13_Video_Game.csprojResolveAssemblyReference.cache

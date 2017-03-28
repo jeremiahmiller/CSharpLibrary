@@ -53,6 +53,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.10_Inheritance", "0.09_In
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.11_Access_Modifiers", "0.12_Access_Modifiers\0.11_Access_Modifiers.csproj", "{DB55E5D7-17E2-47DC-9863-AC742F6C5A4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.12_Getters_Setters", "0.12_Getters_Setters\0.12_Getters_Setters.csproj", "{34D52D29-2BA0-42A1-8EF3-6571F4B92A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.13_Video_Game", "0.13_Video_Game\0.13_Video_Game.csproj", "{C10FD1A7-F393-40DD-B651-35F446B23C88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +163,14 @@ Global
 		{DB55E5D7-17E2-47DC-9863-AC742F6C5A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB55E5D7-17E2-47DC-9863-AC742F6C5A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB55E5D7-17E2-47DC-9863-AC742F6C5A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D52D29-2BA0-42A1-8EF3-6571F4B92A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D52D29-2BA0-42A1-8EF3-6571F4B92A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D52D29-2BA0-42A1-8EF3-6571F4B92A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D52D29-2BA0-42A1-8EF3-6571F4B92A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C10FD1A7-F393-40DD-B651-35F446B23C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10FD1A7-F393-40DD-B651-35F446B23C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10FD1A7-F393-40DD-B651-35F446B23C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10FD1A7-F393-40DD-B651-35F446B23C88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
