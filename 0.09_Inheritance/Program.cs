@@ -23,9 +23,6 @@ namespace _0._09_Inheritance
             Animal theJSWiz = new Animal();
             theJSWiz.NumberOfLegs = 2;
             Console.ReadLine();
-            {
-
-            }
         }
     }
 }
